@@ -1,0 +1,25 @@
+
+.btncompra{
+    
+    outline: none; 
+    background:white; 
+    border:none;
+    border: 0;
+    
+    
+}
+.btncompra:focus{
+       outline: none;
+}
+.icocompra:hover{
+  height: 20px;
+}
+
+.cardcompra:hover{
+ background: #2c3e50; 
+}
+
+.tamañoImg{
+    height: 208px;
+}
+
